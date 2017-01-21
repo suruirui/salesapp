@@ -1,4 +1,6 @@
-#项目准备
+#一、项目说明
+    仿外卖app的商家页面，使用vue开发verson@1.0.0
+#二、项目准备
 ##安装vue-cli脚手架
      npm install -g vue-cli
 ##查看vue版本 
